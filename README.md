@@ -4,7 +4,7 @@
 
 ### 🚀 Software Developer | Problem Solver | Hackathon Enthusiast
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=Fellarity&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophies](https://github-profile-trophy.vercel.app/?username=Vermaji89-code&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 I'm a passionate developer who loves building things that make life easier. Whether it's a trading platform, a study companion, or an internship matchmaker, I'm always up for a challenge.
 
