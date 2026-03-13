@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Yashasvi Reddy Konda! (a.k.a. Vermaji)
 
-![Views](https://komarev.com/ghpvc/?username=Fellarity&color=blueviolet)
+![Views](https://komarev.com/ghpvc/?username=Vermaji89-code&color=blueviolet)
 
 ### 🚀 Software Developer | Problem Solver | Hackathon Enthusiast
 
@@ -30,22 +30,22 @@ I'm a passionate developer who loves building things that make life easier. Whet
 
 ### 🌟 Featured Projects
 
-- **[campus-wallet-pro](https://github.com/Fellarity/campus-wallet-pro)**: A full-stack digital payment ecosystem for college campuses. 💸
-- **[iiifl-trading-arena](https://github.com/Fellarity/iiifl-trading-arena)**: A high-performance trading platform with real-time analytics. 📈
+- **[campus-wallet-pro](https://github.com/Vermaji89-code/campus-wallet)**: A full-stack digital payment ecosystem for college campuses. 💸
+- **[iiifl-trading-arena](https://github.com/Vermaji89-code/trading-arena)**: A high-performance trading platform with real-time analytics. 📈
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/Yashasvi/Vermaji89/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Yashasvi/Vermaji89-code/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vermaji89&show_icons=true&theme=tokyonight" alt="Yashasvi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vermaji89&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vermaji89-code&show_icons=true&theme=tokyonight" alt="Yashasvi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vermaji89-code&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 ---
