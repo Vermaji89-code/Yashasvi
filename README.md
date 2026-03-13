@@ -30,8 +30,8 @@ I'm a passionate developer who loves building things that make life easier. Whet
 
 ### 🌟 Featured Projects
 
-- **[campus-wallet-pro](https://github.com/Vermaji89-code/campus-wallet)**: A full-stack digital payment ecosystem for college campuses. 💸
-- **[iiifl-trading-arena](https://github.com/Vermaji89-code/trading-arena)**: A high-performance trading platform with real-time analytics. 📈
+- **[campus-wallet](https://github.com/Vermaji89-code/campus-wallet)**: A full-stack digital payment ecosystem for college campuses. 💸
+- **[trading-arena](https://github.com/Vermaji89-code/trading-arena)**: A high-performance trading platform with real-time analytics. 📈
 
 ---
 
